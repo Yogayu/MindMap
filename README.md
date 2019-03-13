@@ -1,5 +1,6 @@
 # MindMap
-文章系列思维道题
+
+文章系列思维导图：
 
 - [数据科学概论 DataScience](https://github.com/Yogayu/MindMap/tree/master/DataScience)
 - [探索性数据分析 EDA](https://github.com/Yogayu/MindMap/tree/master/EDA)
